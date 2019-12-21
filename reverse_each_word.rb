@@ -10,6 +10,7 @@ def reverse_each_word
    puts sentence1.reverse 
   
 end
+  return
   
 #end
   
